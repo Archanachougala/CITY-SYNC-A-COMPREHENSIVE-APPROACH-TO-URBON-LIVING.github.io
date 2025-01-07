@@ -55,7 +55,7 @@ Here's a glimpse into my journey:
 ### 📋 *Details:*
 
 - *Course Name:* Algorithms Lab 
-- *Course Code:* 24ECAP202  
+- *Course Code:* 24ECSC205  
 - *Name:* Archana chougala
 - *SRN:* 02FE23BCS133  
 - *Course Instructor:* Prof.Vaishali Parab 
