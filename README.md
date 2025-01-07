@@ -10,10 +10,10 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### *City sunc: A comprehensive approach to urban living*  
+### *City sync: A comprehensive approach to urban living*  
 
 *OVERVIEW:*
-- *Health Care Service*: Provide timely treatments, optimize medical resources, and use IoT for health monitoring with user-friendly portals.
+- *Health Care Service*: Provide timely treatments, optimize medical resources, and use analyrical approach for health monitoring with user-friendly portals.
 - *Tourism Management*: Promote destinations, optimize travel resources, and ensure sustainable tourism with eco-friendly practices.
 - *Waste Management*: Implement smart waste collection, promote recycling, and use apps for waste tracking and reporting.
 - *Transportation Management*: Develop eco-friendly transport systems, optimize resources, and offer digital platforms for schedules and ticketing.
